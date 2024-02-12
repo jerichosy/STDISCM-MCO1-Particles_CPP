@@ -1,4 +1,4 @@
-# STDISCM-MCO1-Particles_CPP
+# STDISCM-PS1-Particles_CPP
 
 ## Build from source
 ### Linux / WSL
